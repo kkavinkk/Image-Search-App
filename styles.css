@@ -84,3 +84,7 @@ form{
     padding: 10px;
     text-transform: capitalize;
 }
+
+#show-more-button {
+    background-color: #008cba;
+}
