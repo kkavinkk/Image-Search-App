@@ -24,5 +24,7 @@ async function searchImages(){
     results.map((results) => {
         const imageWrapper = document.createElement('div')
         imageWrapper.classList.add("search-result")
+        const image = document.createElement('img')
+        image.src = results.urls.small
     })
 }
