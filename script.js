@@ -46,5 +46,11 @@ async function searchImages(){
 formEl.addEventListener("submit", (event) => {
     event.preventDefault()
     page = 1;
-    searchImages
+    searchImages()
+})
+
+formEl.addEventListener("submit", (event) => {
+    event.preventDefault()
+    page = 1;
+    searchImages()
 })
