@@ -56,7 +56,7 @@ form{
     margin: 0% auto;
 }
 
-.search-results {
+.search-result {
     margin-bottom: 60px;
     width: 30%;
     height: 100%;
@@ -65,18 +65,18 @@ form{
     overflow: hidden;
 }
 
-.search-results img {
+.search-result img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     transition: opacity 0.2s ease-in-out;
 }
 
-.search-results:hover img {
+.search-result:hover img {
     opacity: 0.8;
 }
 
-.search-results a{
+.search-result a{
     font-size: 20px;
     text-decoration: none;
     color: #333;
