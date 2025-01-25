@@ -48,7 +48,7 @@ form{
     margin-left: 10px;
 }
 
-.search-results-container {
+.search-results {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
