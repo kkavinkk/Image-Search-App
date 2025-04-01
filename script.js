@@ -1,5 +1,5 @@
 
-const accessKey = "X1u5c97GH50fi7NHRGtQNAcXSSemTuoHvfglAl7-a84"
+const accessKey = ""
 
 const formEl = document.querySelector("form")
 const inputEl = document.getElementById("search-input")
